@@ -1,0 +1,122 @@
+Index,Hora,Frecuencia Cardiaca,Frecuencia Respiratoria,Estado
+1,09:52:47,128,70,En habitacion
+2,09:52:58,76,71,En habitacion
+3,09:53:08,76,71,En habitacion
+4,09:53:19,76,71,En habitacion
+5,09:53:32,0,0,Vacio
+6,09:53:45,0,21,En habitacion
+7,09:53:58,76,21,En habitacion
+8,09:54:09,76,19,En habitacion
+9,09:54:20,126,0,En habitacion
+10,09:55:08,0,20,En habitacion
+11,09:55:19,0,0,Vacio
+12,09:55:30,0,0,En habitacion
+13,09:55:41,82,68,En habitacion
+14,09:55:51,82,68,En habitacion
+15,09:56:02,82,68,En habitacion
+16,09:56:13,72,63,En habitacion
+17,09:56:24,72,63,En habitacion
+18,09:56:35,72,63,En habitacion
+19,09:56:47,72,63,En habitacion
+20,09:56:57,72,63,En habitacion
+21,09:57:09,70,17,En habitacion
+22,09:57:21,0,0,En habitacion
+23,09:57:32,0,16,En habitacion
+24,09:57:42,0,16,En habitacion
+25,09:57:53,0,16,En habitacion
+26,09:58:04,76,20,Durmiendo
+27,09:58:16,76,14,En habitacion
+28,09:58:29,128,14,Durmiendo
+29,09:58:40,0,60,Durmiendo
+30,09:58:50,23,14,Durmiendo
+31,09:59:01,0,63,Durmiendo
+32,09:59:11,114,16,Durmiendo
+33,09:59:22,114,16,Durmiendo
+34,09:59:35,121,64,Durmiendo
+35,09:59:49,121,64,Durmiendo
+36,09:59:59,121,64,Durmiendo
+37,10:00:11,121,16,Durmiendo
+38,10:00:22,121,16,Durmiendo
+39,10:00:33,121,16,Durmiendo
+40,10:00:44,115,0,Durmiendo
+41,10:00:55,115,17,Durmiendo
+42,10:01:08,115,20,Durmiendo
+43,10:01:19,115,20,Durmiendo
+44,10:01:30,63,68,Durmiendo
+45,10:01:42,63,68,Durmiendo
+46,10:01:52,63,68,Durmiendo
+47,10:02:04,63,68,Durmiendo
+48,10:02:16,63,20,Durmiendo
+49,10:02:28,0,0,Durmiendo
+50,10:02:41,0,0,Durmiendo
+51,10:02:52,0,0,Durmiendo
+52,10:03:03,0,0,Durmiendo
+53,10:03:14,0,20,Durmiendo
+54,10:03:25,0,20,Durmiendo
+55,10:03:35,0,20,Durmiendo
+56,10:03:46,0,20,Durmiendo
+57,10:03:57,62,20,Durmiendo
+58,10:04:10,62,20,Durmiendo
+59,10:04:20,124,18,Durmiendo
+60,10:04:32,70,16,Durmiendo
+61,10:04:44,70,66,Durmiendo
+62,10:04:56,70,17,Durmiendo
+63,10:05:07,70,65,Durmiendo
+64,10:05:18,72,17,Durmiendo
+65,10:05:29,72,65,Durmiendo
+66,10:05:40,72,65,Durmiendo
+67,10:05:52,122,18,Durmiendo
+68,10:06:03,64,18,Durmiendo
+69,10:06:14,116,21,Durmiendo
+70,10:06:25,64,21,Durmiendo
+71,10:06:37,64,21,Durmiendo
+72,10:06:48,64,21,Durmiendo
+73,10:06:59,64,21,Durmiendo
+74,10:07:10,64,21,Durmiendo
+75,10:07:21,64,21,Durmiendo
+76,10:07:32,0,0,Durmiendo
+77,10:07:43,0,0,Durmiendo
+78,10:07:54,78,15,Durmiendo
+79,10:08:05,74,63,Durmiendo
+80,10:08:16,66,15,Durmiendo
+81,10:08:27,66,15,Durmiendo
+82,10:08:37,66,18,Durmiendo
+83,10:08:50,66,0,Durmiendo
+84,10:09:01,66,0,Durmiendo
+85,10:09:11,0,0,Durmiendo
+86,10:09:24,66,0,Durmiendo
+87,10:09:35,66,0,Durmiendo
+88,10:09:47,66,0,Durmiendo
+89,10:10:01,83,16,Durmiendo
+90,10:10:12,81,16,Durmiendo
+91,10:10:23,77,66,Durmiendo
+92,10:10:34,77,18,Durmiendo
+93,10:10:45,77,18,Durmiendo
+94,10:10:57,0,0,Durmiendo
+95,10:11:08,80,0,Durmiendo
+96,10:11:21,75,65,Durmiendo
+97,10:11:31,75,65,Durmiendo
+98,10:11:42,73,65,Durmiendo
+99,10:11:53,73,17,Durmiendo
+100,10:12:06,73,17,Durmiendo
+101,10:12:17,73,17,Durmiendo
+102,10:12:28,73,17,Durmiendo
+103,10:12:38,0,0,Durmiendo
+104,10:12:53,0,12,Durmiendo
+105,10:13:06,117,11,Durmiendo
+106,10:13:16,117,11,Durmiendo
+107,10:13:27,117,11,Durmiendo
+108,10:13:39,69,68,Durmiendo
+109,10:13:50,74,20,Durmiendo
+110,10:14:01,74,21,Durmiendo
+111,10:14:12,74,68,Durmiendo
+112,10:14:24,0,0,Durmiendo
+113,10:14:35,0,0,Durmiendo
+114,10:14:46,66,69,Durmiendo
+115,10:14:57,66,69,Durmiendo
+116,10:15:07,66,13,Durmiendo
+117,10:15:18,66,13,Durmiendo
+118,10:15:28,139,18,Durmiendo
+119,10:15:38,139,18,Durmiendo
+120,10:15:49,139,18,Durmiendo
+121,10:16:00,139,18,Durmiendo

@@ -1,0 +1,70 @@
+/*Archivo conjunto a Dashboar1.py
+Archivo que otorga estilo a los cuadros*/
+
+/* Logo */
+/*Inserta logo en el menu desplegable en la esquina superiot izquierda*/
+[data-testid="stSidebar"] {
+  background-image: url(https://lh4.googleusercontent.com/proxy/xh4IaEQOmzWGiZ6LgJtlT_17eS3XoUz7xPQOmYtraQ-1B0tBqfOEGkKiIJJaJZeiQ3vo8N-NLkubXJ4DnDyQa1Mgk8bnGxD2jBWvZ_k76uAMx5ssyKdS4O6owi_ZghaH1A0zUtjgUQ);
+  background-size: 170px;
+  background-repeat: no-repeat;
+  background-position: 20px 10px;
+}
+
+
+
+/*Estilo Cuadros de Parametros*/
+div.stHorizontalBlock.st-emotion-cache-ocqkz7.e1f1d6gn5{
+  border: 1px solid #CCCCCC ;
+  padding: 5% 5% 5% 5% ;
+  border-radius: 5px;
+  border-left: 0.5rem solid #375386 !important;
+  box-shadow: 0 0.15rem 1.75rem 0 rgba(58, 59, 69, 0.15) !important;
+}
+
+/*Estilo de las letras del recuadro*/
+label.st-emotion-cache-1tenn4l.e1i5pmia2{
+    color: #194dbd !important ;
+    font-weight: 700 ;
+    font: x-large;
+    text-transform: uppercase ;
+}
+
+
+/*Estilo cuadro del grafico*/
+div.st-emotion-cache-0.elp1w7k0{
+  
+  border: 2px solid #CCCCCC ;
+  padding: 7% 5% 2% 5%;
+  border-radius: 2px;
+  stroke-width: "black";
+  font-size: 500;
+  
+}
+
+/* Move block container higher */
+div.block-container.css-18e3th9.egzxvld2 {
+  margin-top: -5em;
+}
+
+/*Tamaño grafico dentro del marco*/
+canvas.marks{
+  width: 100%;
+  height: 350;
+}
+/* Hide hamburger menu and footer */
+div.css-r698ls.e8zbici2 {
+  display: none;
+}
+
+footer.css-ipbk5a.egzxvld4 {
+  display: none;
+}
+
+footer.css-12gp8ed.eknhn3m4 {
+  display: none;
+}
+
+div.vg-tooltip-element {
+  display: none;
+}
+

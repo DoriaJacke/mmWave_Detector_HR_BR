@@ -1,0 +1,87 @@
+Index,Hora,Frecuencia Cardiaca,Frecuencia Respiratoria,Estado
+1,09:44:01,62,20,En habitacion
+2,09:44:13,62,20,En habitacion
+3,09:44:24,62,20,En habitacion
+4,09:44:34,62,20,En habitacion
+5,09:44:45,0,0,En habitacion
+6,09:44:57,76,0,En habitacion
+7,09:45:07,76,0,En habitacion
+8,09:45:17,76,0,En habitacion
+9,09:45:30,76,0,En habitacion
+10,09:45:39,76,0,En habitacion
+11,09:45:49,76,0,En habitacion
+12,09:46:01,76,18,En habitacion
+13,09:46:13,65,15,En habitacion
+14,09:46:24,65,15,En habitacion
+15,09:46:36,120,11,En habitacion
+16,09:46:47,68,60,En habitacion
+17,09:46:59,63,60,En habitacion
+18,09:47:09,115,84,En habitacion
+19,09:47:20,115,84,En habitacion
+20,09:47:29,115,84,En habitacion
+21,09:47:40,115,84,En habitacion
+22,09:47:50,115,84,En habitacion
+23,09:47:59,115,84,En habitacion
+24,09:48:12,0,0,Vacio
+25,09:48:23,0,0,Vacio
+26,09:48:36,0,0,Vacio
+27,09:48:46,0,0,Vacio
+28,09:48:58,0,0,Vacio
+29,09:49:09,0,0,Vacio
+30,09:49:20,0,0,Vacio
+31,09:49:32,0,0,Vacio
+32,09:49:46,0,0,Vacio
+33,09:49:57,0,0,Vacio
+34,09:50:07,0,0,Vacio
+35,09:50:18,0,0,Vacio
+36,09:50:28,0,0,Vacio
+37,09:50:38,0,0,Vacio
+38,09:50:48,0,0,En habitacion
+39,09:50:59,0,16,En habitacion
+40,09:51:09,0,13,En habitacion
+41,09:51:19,124,12,En habitacion
+42,09:51:30,72,12,En habitacion
+43,09:51:40,72,12,En habitacion
+44,09:51:52,72,12,En habitacion
+45,09:52:07,136,11,En habitacion
+46,09:52:19,84,12,En habitacion
+47,09:52:31,84,12,En habitacion
+48,09:52:42,136,10,En habitacion
+49,09:52:53,81,10,En habitacion
+50,09:53:03,133,16,En habitacion
+51,09:53:15,133,16,En habitacion
+52,09:53:25,133,16,En habitacion
+53,09:53:37,133,65,En habitacion
+54,09:53:47,133,65,En habitacion
+55,09:53:58,133,65,En habitacion
+56,09:54:09,133,0,Vacio
+57,09:54:20,0,0,Vacio
+58,09:54:32,0,0,Vacio
+59,09:54:43,0,0,Vacio
+60,09:54:53,0,0,Vacio
+61,09:55:03,0,0,Vacio
+62,09:55:14,0,0,Vacio
+63,09:55:25,0,0,En habitacion
+64,09:55:36,0,0,En habitacion
+65,09:55:47,0,0,En habitacion
+66,09:55:59,0,0,En habitacion
+67,09:56:10,0,0,En habitacion
+68,09:56:19,0,0,En habitacion
+69,09:56:30,0,0,En habitacion
+70,09:56:40,0,0,En habitacion
+71,09:56:56,0,0,Vacio
+72,09:57:07,0,0,En habitacion
+73,09:57:18,0,0,En habitacion
+74,09:57:30,0,70,En habitacion
+75,09:57:42,0,70,En habitacion
+76,09:57:57,0,70,En habitacion
+77,09:58:09,62,13,En habitacion
+78,09:58:21,62,13,En habitacion
+79,09:58:31,62,13,En habitacion
+80,09:58:44,62,13,En habitacion
+81,09:58:56,0,0,En habitacion
+82,09:59:07,0,0,En habitacion
+83,09:59:16,0,0,En habitacion
+84,09:59:26,0,0,En habitacion
+85,09:59:37,0,7,En habitacion
+86,09:59:48,84,57,En habitacion

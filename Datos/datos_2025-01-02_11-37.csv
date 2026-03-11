@@ -1,0 +1,521 @@
+Index,Hora,Frecuencia Cardiaca,Frecuencia Respiratoria,Estado
+1,11:37:19,83,18,En habitacion
+2,11:37:30,83,18,En habitacion
+3,11:37:55,0,0,Vacio
+4,11:38:06,0,0,En habitacion
+5,11:38:17,87,13,En habitacion
+6,11:38:28,71,14,En habitacion
+7,11:38:39,70,15,En habitacion
+8,11:38:50,70,15,En habitacion
+9,11:39:01,70,15,En habitacion
+10,11:39:12,118,14,En habitacion
+11,11:39:22,118,14,En habitacion
+12,11:39:33,118,14,En habitacion
+13,11:39:44,0,0,Vacio
+14,11:39:56,0,0,En habitacion
+15,11:40:06,0,0,En habitacion
+16,11:40:17,0,0,En habitacion
+17,11:40:31,73,19,En habitacion
+18,11:40:43,72,17,En habitacion
+19,11:40:53,75,14,En habitacion
+20,11:41:05,129,14,En habitacion
+21,11:41:18,129,14,En habitacion
+22,11:41:29,129,14,Vacio
+23,11:41:41,0,0,En habitacion
+24,11:41:51,0,0,En habitacion
+25,11:42:05,0,0,En habitacion
+26,11:42:16,0,0,En habitacion
+27,11:42:28,0,0,En habitacion
+28,11:42:40,0,0,En habitacion
+29,11:42:54,79,0,En habitacion
+30,11:43:05,79,0,En habitacion
+31,11:43:17,0,0,Vacio
+32,11:43:28,0,0,En habitacion
+33,11:43:39,83,0,En habitacion
+34,11:43:49,84,18,En habitacion
+35,11:44:01,84,19,En habitacion
+36,11:44:12,84,20,En habitacion
+37,11:44:22,141,20,En habitacion
+38,11:44:34,89,68,En habitacion
+39,11:44:44,89,68,En habitacion
+40,11:44:55,87,68,En habitacion
+41,11:45:06,0,0,Vacio
+42,11:45:19,0,0,Vacio
+43,11:45:30,90,17,En habitacion
+44,11:45:42,90,17,En habitacion
+45,11:45:54,90,17,En habitacion
+46,11:46:04,117,14,En habitacion
+47,11:46:16,117,14,En habitacion
+48,11:46:27,117,14,En habitacion
+49,11:46:39,75,18,En habitacion
+50,11:46:50,135,15,En habitacion
+51,11:47:03,0,0,En habitacion
+52,11:47:15,82,12,En habitacion
+53,11:47:26,121,13,En habitacion
+54,11:47:37,69,13,En habitacion
+55,11:47:48,69,63,En habitacion
+56,11:48:00,69,63,En habitacion
+57,11:48:10,72,17,En habitacion
+58,11:48:21,72,17,En habitacion
+59,11:48:33,72,20,En habitacion
+60,11:48:45,0,0,En habitacion
+61,11:48:56,75,18,En habitacion
+62,11:49:09,83,18,En habitacion
+63,11:49:21,135,18,En habitacion
+64,11:49:32,135,16,En habitacion
+65,11:49:45,135,16,En habitacion
+66,11:49:56,135,14,En habitacion
+67,11:50:08,135,12,En habitacion
+68,11:50:19,135,12,En habitacion
+69,11:50:30,138,12,En habitacion
+70,11:50:41,75,10,En habitacion
+71,11:50:53,81,8,En habitacion
+72,11:51:05,70,161,En habitacion
+73,11:51:15,64,61,En habitacion
+74,11:51:28,64,61,En habitacion
+75,11:51:39,72,58,En habitacion
+76,11:51:50,72,58,En habitacion
+77,11:52:02,70,58,En habitacion
+78,11:52:13,130,17,En habitacion
+79,11:52:25,87,18,En habitacion
+80,11:52:36,87,66,En habitacion
+81,11:52:50,87,66,En habitacion
+82,11:53:02,130,14,En habitacion
+83,11:53:13,130,14,En habitacion
+84,11:53:24,130,14,En habitacion
+85,11:53:35,77,20,En habitacion
+86,11:53:48,123,22,En habitacion
+87,11:53:59,0,0,En habitacion
+88,11:54:11,0,0,En habitacion
+89,11:54:22,0,0,En habitacion
+90,11:54:33,140,19,En habitacion
+91,11:54:44,142,16,En habitacion
+92,11:54:59,142,16,En habitacion
+93,11:55:47,75,11,En habitacion
+94,11:55:58,75,11,En habitacion
+95,11:56:11,75,11,En habitacion
+96,11:56:23,75,11,En habitacion
+97,11:56:34,75,11,En habitacion
+98,11:56:45,75,11,En habitacion
+99,11:56:57,89,69,En habitacion
+100,11:57:09,141,19,En habitacion
+101,11:57:20,0,0,En habitacion
+102,11:57:35,0,0,En habitacion
+103,11:57:47,0,21,En habitacion
+104,11:57:58,76,66,En habitacion
+105,11:58:09,76,18,En habitacion
+106,11:58:22,123,16,En habitacion
+107,11:58:33,123,16,En habitacion
+108,11:58:44,123,16,En habitacion
+109,11:58:55,0,0,En habitacion
+110,11:59:06,0,14,En habitacion
+111,11:59:19,78,18,En habitacion
+112,11:59:31,78,18,En habitacion
+113,11:59:43,78,18,En habitacion
+114,11:59:54,78,13,En habitacion
+115,12:00:07,78,18,En habitacion
+116,12:00:20,78,65,En habitacion
+117,12:00:31,84,18,En habitacion
+118,12:00:43,72,66,En habitacion
+119,12:00:54,74,66,En habitacion
+120,12:01:04,77,66,En habitacion
+121,12:01:15,77,66,En habitacion
+122,12:01:27,84,16,En habitacion
+123,12:01:38,81,64,En habitacion
+124,12:01:49,81,64,En habitacion
+125,12:02:00,69,14,En habitacion
+126,12:02:12,0,61,En habitacion
+127,12:02:23,0,61,En habitacion
+128,12:02:36,0,61,En habitacion
+129,12:02:49,0,61,En habitacion
+130,12:03:00,77,16,En habitacion
+131,12:03:12,78,16,En habitacion
+132,12:03:24,78,63,En habitacion
+133,12:03:37,79,15,En habitacion
+134,12:03:49,79,15,En habitacion
+135,12:04:01,0,0,En habitacion
+136,12:04:13,0,0,En habitacion
+137,12:04:24,138,19,En habitacion
+138,12:04:35,86,64,En habitacion
+139,12:04:46,86,12,En habitacion
+140,12:04:58,86,12,En habitacion
+141,12:05:10,72,12,En habitacion
+142,12:05:22,72,10,En habitacion
+143,12:05:33,72,10,En habitacion
+144,12:05:47,72,10,En habitacion
+145,12:05:59,81,22,En habitacion
+146,12:06:10,76,15,En habitacion
+147,12:06:22,76,15,En habitacion
+148,12:06:34,76,15,En habitacion
+149,12:06:46,76,12,En habitacion
+150,12:06:59,76,12,En habitacion
+151,12:07:11,127,13,En habitacion
+152,12:07:24,0,0,En habitacion
+153,12:07:52,0,15,En habitacion
+154,12:08:04,0,15,En habitacion
+155,12:08:15,86,14,En habitacion
+156,12:08:29,0,13,En habitacion
+157,12:08:41,0,13,En habitacion
+158,12:08:52,0,14,En habitacion
+159,12:09:04,0,14,En habitacion
+160,12:09:17,0,58,En habitacion
+161,12:09:28,0,58,En habitacion
+162,12:09:39,0,58,En habitacion
+163,12:09:50,63,8,En habitacion
+164,12:10:02,63,84,En habitacion
+165,12:10:14,63,84,En habitacion
+166,12:10:25,136,84,En habitacion
+167,12:10:37,84,68,En habitacion
+168,12:10:48,0,0,En habitacion
+169,12:11:01,84,69,En habitacion
+170,12:11:12,84,66,En habitacion
+171,12:11:24,135,14,En habitacion
+172,12:11:35,88,59,En habitacion
+173,12:11:48,140,13,En habitacion
+174,12:12:00,88,10,En habitacion
+175,12:12:12,88,10,En habitacion
+176,12:12:24,88,10,En habitacion
+177,12:12:37,0,0,Vacio
+178,12:12:49,0,0,En habitacion
+179,12:13:01,0,0,En habitacion
+180,12:13:14,0,0,En habitacion
+181,12:13:26,0,0,En habitacion
+182,12:13:39,77,16,En habitacion
+183,12:13:51,77,62,En habitacion
+184,12:14:04,77,62,En habitacion
+185,12:14:15,118,19,En habitacion
+186,12:14:27,0,0,En habitacion
+187,12:14:43,78,0,En habitacion
+188,12:14:55,80,0,En habitacion
+189,12:15:06,80,16,En habitacion
+190,12:15:18,84,17,En habitacion
+191,12:15:31,84,17,En habitacion
+192,12:15:42,85,17,En habitacion
+193,12:15:54,85,17,En habitacion
+194,12:16:06,0,0,En habitacion
+195,12:16:20,0,64,En habitacion
+196,12:16:33,74,64,En habitacion
+197,12:16:44,68,17,En habitacion
+198,12:16:59,78,15,En habitacion
+199,12:17:11,81,15,En habitacion
+200,12:17:23,81,15,En habitacion
+201,12:17:37,72,61,En habitacion
+202,12:17:48,0,0,En habitacion
+203,12:18:15,71,0,En habitacion
+204,12:18:26,71,0,En habitacion
+205,12:18:37,71,0,En habitacion
+206,12:18:49,71,60,En habitacion
+207,12:19:01,62,13,En habitacion
+208,12:19:13,62,12,En habitacion
+209,12:19:25,62,17,En habitacion
+210,12:19:36,0,0,En habitacion
+211,12:19:48,0,0,En habitacion
+212,12:19:59,0,0,En habitacion
+213,12:20:13,0,0,En habitacion
+214,12:20:25,0,0,En habitacion
+215,12:20:36,0,0,En habitacion
+216,12:20:48,63,14,En habitacion
+217,12:21:00,62,15,En habitacion
+218,12:21:13,0,65,En habitacion
+219,12:21:25,69,20,En habitacion
+220,12:21:38,69,20,En habitacion
+221,12:21:50,69,20,En habitacion
+222,12:22:03,69,20,En habitacion
+223,12:22:15,69,20,En habitacion
+224,12:22:27,69,20,En habitacion
+225,12:22:41,69,20,En habitacion
+226,12:22:53,0,0,En habitacion
+227,12:23:06,0,16,En habitacion
+228,12:23:36,89,15,En habitacion
+229,12:23:49,130,13,En habitacion
+230,12:24:02,75,13,En habitacion
+231,12:24:16,78,13,En habitacion
+232,12:24:29,73,11,En habitacion
+233,12:24:40,0,0,En habitacion
+234,12:24:52,0,0,En habitacion
+235,12:25:04,0,0,En habitacion
+236,12:25:18,0,0,En habitacion
+237,12:25:30,0,21,En habitacion
+238,12:25:44,82,23,En habitacion
+239,12:25:57,82,23,En habitacion
+240,12:26:09,82,23,En habitacion
+241,12:26:21,0,0,Vacio
+242,12:26:32,0,0,En habitacion
+243,12:26:44,0,0,En habitacion
+244,12:26:55,0,0,En habitacion
+245,12:27:08,0,16,En habitacion
+246,12:27:22,0,16,En habitacion
+247,12:27:34,77,66,En habitacion
+248,12:27:46,77,66,En habitacion
+249,12:27:59,77,66,En habitacion
+250,12:28:11,71,13,En habitacion
+251,12:28:22,71,0,En habitacion
+252,12:28:36,128,64,En habitacion
+253,12:28:47,128,64,En habitacion
+254,12:28:58,128,64,En habitacion
+255,12:29:09,128,64,En habitacion
+256,12:29:36,88,14,En habitacion
+257,12:29:50,88,13,En habitacion
+258,12:30:02,0,0,Vacio
+259,12:30:15,0,0,En habitacion
+260,12:30:26,0,0,En habitacion
+261,12:30:40,78,0,En habitacion
+262,12:30:56,78,0,En habitacion
+263,12:31:10,78,0,En habitacion
+264,12:31:42,78,0,En habitacion
+265,12:31:55,0,0,En habitacion
+266,12:32:06,97,25,En habitacion
+267,12:32:18,97,19,En habitacion
+268,12:32:29,139,13,En habitacion
+269,12:32:40,85,11,En habitacion
+270,12:32:52,85,11,En habitacion
+271,12:33:03,85,11,En habitacion
+272,12:33:15,85,10,En habitacion
+273,12:33:26,0,61,En habitacion
+274,12:33:42,141,15,En habitacion
+275,12:33:53,141,16,En habitacion
+276,12:34:05,141,16,En habitacion
+277,12:34:19,141,16,En habitacion
+278,12:34:30,141,16,En habitacion
+279,12:34:41,141,16,En habitacion
+280,12:34:53,141,16,En habitacion
+281,12:35:04,71,16,En habitacion
+282,12:35:17,123,0,En habitacion
+283,12:35:29,123,0,En habitacion
+284,12:35:43,69,0,En habitacion
+285,12:35:55,0,20,En habitacion
+286,12:36:08,0,20,En habitacion
+287,12:36:20,0,18,En habitacion
+288,12:36:32,0,18,En habitacion
+289,12:36:44,72,15,En habitacion
+290,12:36:56,0,0,En habitacion
+291,12:37:08,75,0,En habitacion
+292,12:37:22,120,17,En habitacion
+293,12:37:34,132,17,En habitacion
+294,12:37:47,132,17,En habitacion
+295,12:37:59,132,17,En habitacion
+296,12:38:11,88,17,En habitacion
+297,12:38:23,88,17,En habitacion
+298,12:38:36,0,0,En habitacion
+299,12:38:48,0,0,En habitacion
+300,12:39:00,68,12,En habitacion
+301,12:39:13,80,14,En habitacion
+302,12:39:25,80,14,En habitacion
+303,12:39:37,80,14,En habitacion
+304,12:39:48,71,62,En habitacion
+305,12:40:00,71,60,En habitacion
+306,12:40:13,71,10,En habitacion
+307,12:40:25,0,0,En habitacion
+308,12:40:36,0,0,En habitacion
+309,12:40:48,0,0,En habitacion
+310,12:41:00,0,0,En habitacion
+311,12:41:11,137,0,En habitacion
+312,12:41:26,84,0,En habitacion
+313,12:41:37,84,16,En habitacion
+314,12:41:50,84,16,En habitacion
+315,12:42:01,0,14,En habitacion
+316,12:42:15,80,16,En habitacion
+317,12:42:26,80,16,En habitacion
+318,12:42:37,81,14,En habitacion
+319,12:42:49,81,63,En habitacion
+320,12:43:02,78,63,En habitacion
+321,12:43:14,128,12,En habitacion
+322,12:43:26,128,12,En habitacion
+323,12:43:39,128,10,En habitacion
+324,12:43:54,0,0,En habitacion
+325,12:44:07,63,0,En habitacion
+326,12:44:19,63,0,En habitacion
+327,12:44:35,63,0,En habitacion
+328,12:44:48,63,17,En habitacion
+329,12:45:02,63,17,En habitacion
+330,12:45:17,63,17,En habitacion
+331,12:45:31,63,17,En habitacion
+332,12:45:43,79,16,En habitacion
+333,12:45:55,82,15,En habitacion
+334,12:46:06,82,65,En habitacion
+335,12:46:19,82,65,En habitacion
+336,12:46:34,82,65,En habitacion
+337,12:46:49,82,65,En habitacion
+338,12:47:01,82,65,En habitacion
+339,12:47:12,0,0,En habitacion
+340,12:47:25,0,0,En habitacion
+341,12:47:37,0,18,En habitacion
+342,12:47:51,0,17,En habitacion
+343,12:48:03,0,17,En habitacion
+344,12:48:18,0,17,En habitacion
+345,12:48:30,0,17,En habitacion
+346,12:48:43,0,17,En habitacion
+347,12:48:58,0,0,En habitacion
+348,12:49:25,169,66,En habitacion
+349,12:49:39,169,66,Durmiendo
+350,12:49:51,169,66,Durmiendo
+351,12:50:03,63,21,Durmiendo
+352,12:50:16,63,21,Durmiendo
+353,12:50:28,63,21,En habitacion
+354,12:50:40,0,0,Vacio
+355,12:50:52,0,0,En habitacion
+356,12:51:04,69,0,En habitacion
+357,12:51:17,78,70,En habitacion
+358,12:51:29,84,20,Durmiendo
+359,12:51:41,78,21,Durmiendo
+360,12:51:53,78,21,En habitacion
+361,12:52:05,0,16,En habitacion
+362,12:52:17,0,61,En habitacion
+363,12:52:29,0,12,En habitacion
+364,12:52:41,122,15,En habitacion
+365,12:52:52,72,14,En habitacion
+366,12:53:04,72,14,En habitacion
+367,12:53:16,88,15,En habitacion
+368,12:53:29,88,15,En habitacion
+369,12:53:42,69,11,En habitacion
+370,12:53:54,69,11,En habitacion
+371,12:54:08,0,0,En habitacion
+372,12:54:21,76,65,En habitacion
+373,12:54:33,86,17,En habitacion
+374,12:54:46,86,17,En habitacion
+375,12:54:58,64,68,En habitacion
+376,12:55:10,63,20,En habitacion
+377,12:55:23,63,20,En habitacion
+378,12:55:35,63,20,En habitacion
+379,12:55:46,78,60,En habitacion
+380,12:55:59,79,12,En habitacion
+381,12:56:12,79,12,En habitacion
+382,12:56:24,86,13,En habitacion
+383,12:56:36,86,13,En habitacion
+384,12:56:48,86,13,En habitacion
+385,12:57:02,138,13,En habitacion
+386,12:57:15,138,13,En habitacion
+387,12:57:26,138,13,En habitacion
+388,12:57:38,0,0,En habitacion
+389,12:57:50,0,0,En habitacion
+390,12:58:01,0,0,En habitacion
+391,12:58:14,0,0,En habitacion
+392,12:58:25,0,0,En habitacion
+393,12:58:38,150,21,En habitacion
+394,12:58:50,97,67,En habitacion
+395,12:59:18,0,0,En habitacion
+396,12:59:30,0,0,En habitacion
+397,12:59:43,85,13,En habitacion
+398,12:59:56,85,13,En habitacion
+399,13:00:11,85,14,En habitacion
+400,13:00:22,80,65,En habitacion
+401,13:00:34,80,65,En habitacion
+402,13:00:46,81,66,En habitacion
+403,13:01:02,0,0,En habitacion
+404,13:01:27,0,0,En habitacion
+405,13:01:40,79,0,Durmiendo
+406,13:01:52,79,0,Durmiendo
+407,13:02:05,79,17,En habitacion
+408,13:02:58,90,17,En habitacion
+409,13:03:10,90,16,En habitacion
+410,13:03:24,85,16,En habitacion
+411,13:03:35,85,16,En habitacion
+412,13:03:47,78,14,En habitacion
+413,13:03:59,78,14,En habitacion
+414,13:04:10,68,55,En habitacion
+415,13:04:27,0,0,En habitacion
+416,13:04:39,72,7,En habitacion
+417,13:04:50,72,56,En habitacion
+418,13:05:02,72,56,En habitacion
+419,13:05:15,77,56,En habitacion
+420,13:05:27,77,56,En habitacion
+421,13:05:39,77,56,En habitacion
+422,13:05:50,77,56,En habitacion
+423,13:06:02,77,56,En habitacion
+424,13:06:15,65,14,En habitacion
+425,13:06:27,63,15,En habitacion
+426,13:06:39,62,171,En habitacion
+427,13:06:52,62,16,En habitacion
+428,13:07:22,62,13,En habitacion
+429,13:07:35,62,13,En habitacion
+430,13:07:47,0,0,En habitacion
+431,13:08:01,71,19,En habitacion
+432,13:08:14,71,19,En habitacion
+433,13:08:33,0,0,En habitacion
+434,13:08:45,0,0,En habitacion
+435,13:09:01,0,0,En habitacion
+436,13:09:14,0,0,En habitacion
+437,13:09:26,0,0,En habitacion
+438,13:09:37,0,14,En habitacion
+439,13:09:51,122,15,En habitacion
+440,13:10:03,132,17,En habitacion
+441,13:10:15,0,0,Vacio
+442,13:10:27,0,0,Vacio
+443,13:10:38,0,0,En habitacion
+444,13:10:50,86,65,En habitacion
+445,13:11:04,86,65,En habitacion
+446,13:11:17,86,17,En habitacion
+447,13:11:29,133,12,En habitacion
+448,13:11:42,78,10,En habitacion
+449,13:11:55,70,10,En habitacion
+450,13:12:06,70,10,En habitacion
+451,13:12:18,0,0,En habitacion
+452,13:12:30,0,0,En habitacion
+453,13:12:42,0,0,En habitacion
+454,13:12:54,81,0,En habitacion
+455,13:13:07,81,16,En habitacion
+456,13:13:18,81,16,Durmiendo
+457,13:13:30,81,16,Durmiendo
+458,13:13:42,133,14,Durmiendo
+459,13:13:54,133,14,Durmiendo
+460,13:14:05,0,0,En habitacion
+461,13:14:17,133,17,En habitacion
+462,13:14:28,133,17,En habitacion
+463,13:14:43,133,17,En habitacion
+464,13:14:55,68,17,En habitacion
+465,13:15:08,69,15,En habitacion
+466,13:15:20,69,15,Durmiendo
+467,13:15:32,69,65,En habitacion
+468,13:15:43,0,0,En habitacion
+469,13:15:56,69,19,Durmiendo
+470,13:16:23,69,59,En habitacion
+471,13:16:35,70,11,Durmiendo
+472,13:16:46,70,11,Durmiendo
+473,13:16:58,70,11,Durmiendo
+474,13:17:10,70,11,En habitacion
+475,13:17:22,0,0,Durmiendo
+476,13:17:34,0,0,Durmiendo
+477,13:17:48,0,13,En habitacion
+478,13:18:03,0,13,Durmiendo
+479,13:18:15,0,13,En habitacion
+480,13:18:29,125,17,En habitacion
+481,13:18:44,69,232,En habitacion
+482,13:18:56,69,232,En habitacion
+483,13:19:08,0,0,Durmiendo
+484,13:19:20,0,0,Durmiendo
+485,13:19:33,73,16,Durmiendo
+486,13:19:46,73,62,Durmiendo
+487,13:19:58,73,62,En habitacion
+488,13:20:10,73,62,Durmiendo
+489,13:20:25,75,14,En habitacion
+490,13:20:39,75,14,Durmiendo
+491,13:20:51,125,0,Durmiendo
+492,13:21:03,125,18,Durmiendo
+493,13:21:15,125,63,En habitacion
+494,13:21:28,87,16,En habitacion
+495,13:21:39,87,16,Durmiendo
+496,13:21:52,87,59,En habitacion
+497,13:22:04,80,13,En habitacion
+498,13:22:16,80,13,En habitacion
+499,13:22:29,0,0,Durmiendo
+500,13:22:41,0,0,En habitacion
+501,13:22:53,0,0,Durmiendo
+502,13:23:07,76,65,En habitacion
+503,13:23:20,76,65,Durmiendo
+504,13:23:32,76,65,En habitacion
+505,13:23:45,64,65,En habitacion
+506,13:24:00,64,16,En habitacion
+507,13:24:12,0,0,Durmiendo
+508,13:24:40,64,19,En habitacion
+509,13:24:53,64,68,En habitacion
+510,13:25:05,122,20,En habitacion
+511,13:25:17,122,20,Durmiendo
+512,13:25:29,122,20,En habitacion
+513,13:25:41,122,13,Durmiendo
+514,13:25:53,122,13,Durmiendo
+515,13:26:04,66,13,Durmiendo
+516,13:26:16,66,13,En habitacion
+517,13:26:29,66,13,Durmiendo
+518,13:26:41,84,13,Durmiendo
+519,13:26:54,84,10,Durmiendo
+520,13:27:07,84,12,En habitacion
